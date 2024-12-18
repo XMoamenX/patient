@@ -1,3 +1,4 @@
+"use client";
 import  {Sidebar}  from "@/components/ui/sidebar";
 
 export default function Home() {
@@ -5,5 +6,6 @@ export default function Home() {
     <div>
       <Sidebar />
     </div>
+
   );
 }
