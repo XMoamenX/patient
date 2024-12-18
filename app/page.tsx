@@ -1,11 +1,10 @@
 "use client";
-import  {Sidebar}  from "@/components/ui/sidebar";
+import { Sidebar } from "@/components/ui/sidebar";
 
 export default function Home() {
   return (
     <div>
       <Sidebar />
-      not working
     </div>
 
   );
