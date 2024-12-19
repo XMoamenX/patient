@@ -1,8 +1,8 @@
 "use client";
-import Navbar from "./components/navbar/nav";
+import { SidebarDemo } from "./components/navbar/nav";
 
 export default function Home() {
   return (
-    <Navbar />
+    <SidebarDemo />
   );
 }
